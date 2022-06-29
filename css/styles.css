@@ -1,36 +1,3 @@
-html {
-  scroll-behavior: smooth;
-}
-body {
-  height: 100vh;
-}
-
-@import url("https://fonts.googleapis.com/css?family=Titillium+Web");
-* {
-  font-family: "Titillium Web", sans-serif;
-}
-.jTCenter {
-  text-align: justify;
-}
-.navbar .navbar-brand {
-  font-size: 30px;
-}
-.navbar .nav-item {
-  padding: 10px;
-}
-.navbar .nav-link {
-  font-size: 20px;
-  margin-left: 10px;
-}
-.fa-bars {
-  color: #007bff;
-  font-size: 30px;
-}
-
-.intro{
-margin-top: 8%;
-}
-
-.bluesky {
-  color: rgb(107, 107, 107);
+.highlight {
+  color: blueviolet;
 }
