@@ -3,8 +3,11 @@
 }
 .introduction {
   padding: 50px;
-  height: 800px;
+  height: auto;
 }
 .highlight {
   color: blueviolet;
+}
+.mountain {
+  margin-top: -8%;
 }
