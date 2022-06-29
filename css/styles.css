@@ -1,5 +1,5 @@
 .intro_section {
-  background-color: antiquewhite;
+  background-color: rgb(235, 247, 255);
 }
 .introduction {
   padding: 50px;
@@ -7,7 +7,4 @@
 }
 .highlight {
   color: blueviolet;
-}
-.mountain {
-  margin-top: -8%;
 }
