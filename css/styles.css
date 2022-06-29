@@ -1,3 +1,10 @@
+.intro_section {
+  background-color: antiquewhite;
+}
+.introduction {
+  padding: 50px;
+  height: 800px;
+}
 .highlight {
   color: blueviolet;
 }
